@@ -1,31 +1,31 @@
-# Transfers
+# 划款
 
-With MeanFi transferring money is easy and inexpensive. As a global decentralized financial platform, you can send instant payments anywhere in the world at almost zero cost. You can configure single payments to send now or schedule them in the future as well as set up money streams for recurrent payments with the desired payment rate per hour, day, month, and more.
+使用 MeanFi 转账既简单又便宜。作为全球去中心化金融平台，您可以几乎零成本向世界任何地方发送即时付款。您可以将单笔付款配置为立即发送或安排在将来发送，还可以设置资金流以按照每小时、每天、每月等所需的付款率进行经常性付款。
 
 {% hint style="info" %}
-Connect your **Solana** **Wallet** first since the app needs it to initiate the transfers, payroll payments, and money streams.
+首先连接您的 Solana 钱包，因为应用程序需要它来启动转账、工资支付和资金流。
 {% endhint %}
 
-### **One-Time Payments**
+### 一次性付款
 
-1. **Navigate** to **Transfers** menu item
-2. \*\*Click \*\*on **Create new transfer**
-3. \*\*Select \*\*option for **One-Time Payment**
-   1. Once you click **Next** you will get to a form where you will fill in specific information to make the payment.
-      1. **Solana** **address** for the **recipient**
-      2. **Amount** and \*\*Token \*\*to send
-      3. Schedule **Date** (_it will be pre-populated with today's date, which will send immediately_)
-      4. Adding \*\*Notes \*\*is optional
+1. **导航**到传输菜单项
+2. **点击**创建新的传输
+3. **选择**一次性付款选项
+   1. 单击下一步后，您将进入一个表格，您将在其中填写特定信息以进行付款。
+      1. **Solana** 收件人的索拉纳地址
+      2. 金额和 **Token** 发送
+      3. 计划日期（它将预先填充今天的日期，将立即发送）
+      4. 添加**注释**(非必须)
 
-### **Repeating Payments**
+### 重复付款
 
-1. **Navigate** to **Transfers** menu item
-2. \*\*Click \*\*on **Create new transfer**
-3. \*\*Select \*\*option for **Repeating Payment**
-4. Once you click **Next** you will get to a form where you will fill in specific information to create the repeating payment.
-   1. **Solana** **address** for the **recipient**
-   2. **Amount** and \*\*Token \*\*to send
-   3. \*\*Rate **and** Frequency \*\*
-   4. Schedule **Date** (_it will be pre-populated with today's date, which means it will start streaming money immediately_)
-   5. The\*\* amount\*\* to fund this money stream
-   6. Adding \*\*Notes \*\*is optional
+1. 导航到传输菜单项
+2. **点击**创建新的传输
+3. **选择**重复付款选项
+4. 单击下一步后，您将进入一个表格，您将在其中填写特定信息以创建重复付款。
+   1. **Solana** 收件人地址
+   2. 金额和 **Token** 发送
+   3. **费率和频率**
+   4. 计划日期（它将预先填充今天的日期，这意味着它将立即开始流钱）
+   5. 资助此资金流的**金额**
+   6. 添加**注释**(非必须)

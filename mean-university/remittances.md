@@ -1,3 +1,3 @@
-# Remittances
+# 汇款
 
-This is how you can send payments to family or friends back home using MeanFi's Transfers.
+这就是您可以使用 MeanFi 的 Transfers 向家人或朋友付款的方式。

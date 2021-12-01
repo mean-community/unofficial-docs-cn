@@ -1,19 +1,19 @@
 ---
-description: Additional tools and services you can access thru MeanFi
+description: 您可以通过 MeanFi 访问的其他工具和服务
 ---
 
-# Tools & Services
+# 工具和服务
 
-### Payroll
+### 工资单
 
-Save time, make payroll easy—in fact, we don't think your job could be any easier. All you need to do is set up the automatic payroll with the rate and frequency desired.
+节省时间，简化工资单——我们认为您的工作将变得无比容易。您需要做的就是以所需的费率和频率设置自动工资单。
 
-Payroll money streams work for employees with a long-term contract (monthly or yearly salaries), and for those more actively managed that require employees to clock-in and clock-out to count their worked hours.
+工资资金流适用于签订长期合同（月薪或年薪）的员工，以及那些需要员工打卡和下班来计算工作时间的更积极管理的员工。
 
-In either case, MeanFi Payroll makes the life of the employer and the employee easier and saves hours of paperwork, reminders, adjustments, and headaches. Check our [Payroll](https://app.meanfi.com/payroll) page for more information.
+在任何一种情况下，MeanFi Payroll 都使雇主和雇员的生活更轻松，并节省了数小时的文书工作、提醒、调整和头痛。查看我们的[薪资](https://app.meanfi.com/payroll)页面了解更多信息。
 
-### Institutional Custody
+### 机构托管
 
-Offers a secure custody solution for institutions so they can safely invest in crypto assets. With our platform, you can access multiple venues through one onboarding process and borrow USD or EUR against your crypto collateral or lend out your cryptocurrency holdings and earn returns on them while they're under custody with us.
+为机构提供安全的托管解决方案，以便他们可以安全地投资加密资产。使用我们的平台，您可以通过同一个流程访问多个场所，并以您的加密资产作为抵押品借入美元或欧元，或借出您持有的加密货币并在它们由我们保管期间赚取回报。
 
-We make it easy for institutional investors of any size to participate with treasuries starting at $1,000,000. If you prefer an actively managed crypto-portfolio with the safety of a traditional financing system, fill the form on the [Custody](https://app.meanfi.com/custody) page for inquiries.
+我们让任何规模的机构投资者都能轻松参与 1,000,000 美元起的国债。如果您更喜欢具有传统融资系统安全性的主动管理的加密投资组合，请填写[托管](https://app.meanfi.com/custody)页面上的表格以进行查询。

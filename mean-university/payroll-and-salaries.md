@@ -1,3 +1,3 @@
-# Payroll & Salaries
+# 工资和薪水
 
-Pay your employees and maintain a healthy cash flow for your business.
+为您的员工支付工资并为您的企业保持健康的现金流。

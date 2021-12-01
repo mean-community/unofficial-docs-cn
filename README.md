@@ -1,39 +1,36 @@
 ---
-description: >-
-  This site is maintained by the Mean DAO community and serves as a resource to
-  explore the breadth of DeFi applications associated with the Mean Protocol
-  platform and MeanFi.
+description: 该站点由 Mean DAO 社区维护，并作为资源来探索与 Mean Protocol 平台和 MeanFi 相关的 DeFi 应用程序。
 ---
 
-# Unofficial Guide to MeanFi
+# MeanFi 非官方指南
 
-## Is this guide approved by the community?
+## 本指南是否获得社区批准？
 
-This guide was written by members of the Mean Community community, also known as Mean Apes, to explore the MeanFi decentralized platform in greater detail and present a variety of DeFi strategies by which users can derive additional value from the platform.
+本指南由 Mean Community 社区（也称为 Mean Apes）成员编写，旨在详细地探索 MeanFi 去中心化平台，并展示各种 DeFi 策略，用户可以通过这些策略从平台中获得额外价值。
 
-This is not an official guide for Mean DAO, MeanFi, or Mean Protocol, nor it should be construed as financial advice. As always with DeFi and cryptocurrency in general, do your own research, and only invest what you’re comfortable with potentially losing.
+这不是 Mean DAO、MeanFi 或 Mean Protocol 的官方指南，也不应被解释为财务建议。与一般的 DeFi 和加密货币一样，请做好你自己的研究，并且记住你投资的东西可能失去价值。
 
-## Where can I find the official documentation?
+## 我在哪里可以找到官方文档？
 
-Official documentation for the Mean DAO: [docs.meanfi.com](https://docs.meanfi.com)
+对于平均DAO官方文档：[docs.meanfi.com](https://docs.meanfi.com)
 
-## What's the link for the application?
+## 申请的链接是什么？
 
-The MeanFi application can be found here: [app.meanfi.com](https://app.meanfi.com)
+该MeanFi应用程序可以在这里找到：[app.meanfi.com](https://app.meanfi.com)
 
-## What will I find on this website?
+## 我会在这个网站上找到什么？
 
-The goal of this website is to present a variety of tutorials, getting started guides, and investment strategies that utilize the MeanFi. Topic samples include managing money streams, DCA, vaults, borrowing and repayments, and how to integrate Mai Finance into other DeFi protocols/strategies.
+本网站的目标是提供各种使用 MeanFi 的教程、入门指南和投资策略。主题示例包括管理资金流、DCA、金库、借贷和还款，以及如何将 Mean Finance 集成到其他 DeFi 协议/策略中。
 
-Lastly, information on how to efficiently use Mean DAO's native token, MEAN, will be provided, as they develop.
+最后，随着 Mean DAO 的发展，将提供有关如何有效使用其原生代币 MEAN 的信息。
 
-## What will I not find on this website?
+## 我在这个网站上找不到什么？
 
-Some assumptions we are making are:
+我们所做的一些假设是：
 
-* Readers are already aware of DeFi projects on Solana, and the Solana Ecosystem in general.
-* Have a good understanding of how cryptocurrency works, and are informed of the different risks related to the cryptocurrency industry in general.
+* 读者已经了解 Solana 上的 DeFi 项目，以及 Solana 生态系统。
+* 对加密货币的工作原理有很好的了解，并了解与加密货币行业相关的不同风险。
 
-If you have questions about the Tokenomics of MEAN, and other basic tenants of the Mean Protocol and MeanFi, please read the official documentation (link above) or join the [Discord](https://discord.meanfi.com) community.
+如果您对 MEAN 的 Tokenomics 以及 Mean Protocol 和 MeanFi 的其他基本租户有任何疑问，请阅读官方文档（上面的链接）或加入[Discord](https://discord.meanfi.com) 社区。
 
-There is no OFFICIAL Telegram Community. If you join an unofficial group, do so at your own risk.
+没有官方电报社区。如果您加入非官方团体，请自担风险。

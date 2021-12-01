@@ -1,3 +1,3 @@
-# Dollar Cost Averaging
+# 平均美元成本投资策略
 
-How to grow your money stash by DCA in a self-custody way using MeanFi
+如何使用 MeanFi 以自我托管的方式通过 DCA 增长您的加密资产。

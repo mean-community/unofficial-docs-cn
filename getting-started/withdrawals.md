@@ -2,12 +2,12 @@
 description: How to withdraw your Transfers and Money Streams
 ---
 
-# Withdrawals
+# 提款
 
-### **Withdrawals (for Transfers)**
+### 提款（用于转账）
 
-When you are the recipient of a transfer, you'll see the incoming transfers under the Transfers tab. The amount available for withdrawal is shown in the transfer details.
+当您是转帐的接收者时，您将在“转帐”选项卡下看到传入的转帐。可提取的金额显示在转账详情中。
 
 ![](../.gitbook/assets/withdrawal.png)
 
-When you are ready to withdraw, simply click on the "Withdraw funds" button, and specify the amount. After the withdrawal is confirmed in your wallet, the money will show up under the corresponding account.
+当您准备好提款时，只需点击“提款”按钮，并指定金额。在您的钱包中确认提款后，款项将显示在相应的帐户下。

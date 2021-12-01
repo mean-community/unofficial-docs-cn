@@ -1,19 +1,19 @@
-# Exchange
+# 交易所
 
-MeanFi allows you to exchange (aka swap) **SPL** **tokens** instantly and securely using the largest liquidity aggregator in the Solana ecosystem with access to more than $1.9 billion of instant optimized liquidity across the top decentralized exchanges and liquidity providers. With just one click you can swap **SOL**, **USDC**, **BTC**, **ETH**, and more\*\* \*\*right from the MeanFi Exchange tab. Check below the steps to do a swap.
+选择MeanFi 允许您使用 Solana 生态系统中最大的流动性聚合器即时、安全地交易（交换）**SPL代币，**并在去中心化交易所和流动性提供商之间访问超过 19 亿美元的即时优化流动性。只需单击一下，您就可以在 MeanFi Exchange 选项卡中交换**SOL** 、**USDC** 、**BTC** 、**ETH**等等\*\* \*\*。按照以下步骤以进行交易。
 
 {% hint style="info" %}
-Connect your **Solana** **Wallet** first since the app needs it to check the balance of the tokens and to proceed with the swap.
+首先连接您的**Solana钱包，**因为应用程序需要它来检查代币的余额。&#x20;
 {% endhint %}
 
-1. **Navigate** to the **Exchange** menu item
-2. \*\*Select \*\*token to **Exchange** \*\*from \*\*and to \*\*Exchange to \*\*
-3. Under **Exchange** **from,** enter the amount you want to swap
-   1. There is a validation in place to show you the min value you need to enter in order to do this operation.
-   2. Notice when you enter an amount the **Exchange to** will show an estimate of the amount you will get.
-4. Check for the network fees and the total you will get and click on \*\*Approve on your wallet \*\*to complete the transaction.
-5. Funds should reflect immediately in your Account.
+1. **导航**到**Exchange**菜单项
+2. \*\*选择\*\*token to **Exchange** \*\*from \*\* and to \*\*Exchange to \*
+3. &#x20;选择**Exchage** **from,** 输入您要交换的金额
+   1. 有一个验证可以显示您需要输入的最小值才能执行此操作。
+   2. 请注意，当您输入金额时，**Exchange to** 将显示您将获得的金额的估计值。
+4. 检查网络费用和您将获得的总费用，然后在您的钱包上点击 \*\*Approve \*\* 以完成交易。
+5. 资金应立即反映在您的账户中。
 
 {% hint style="info" %}
-Keep in mind that our system will do some validations that will warn you whether you have insufficient funds, or if there is limited liquidity for this trade that may negatively impact the price.
+请记住，我们的系统会进行一些验证，以警告您是否资金不足，或者此交易的流动性是否可能对价格产生负面影响。
 {% endhint %}
