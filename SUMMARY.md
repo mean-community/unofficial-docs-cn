@@ -8,7 +8,7 @@
 * [账户](getting-started/accounts.md)
 * [交易所](getting-started/your-wallet.md)
 * [转账](getting-started/transfers.md)
-* [存款](getting-started/deposits.md)
+* [入金](getting-started/deposits.md)
 * [提款](getting-started/withdrawals.md)
 * [工具和服务](getting-started/tools-and-services.md)
 
