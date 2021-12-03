@@ -20,7 +20,7 @@
 
 ## Medium Articles
 
-* [The Mean Protocol and MeanFi](medium-articles/the-mean-protocol-and-meanfi.md)
+* [Mean协议与MeanFi(“The Mean Protocol and MeanFi” Chinese version,Translated by StormG#9999)](medium-articles/mean-xie-yi-yu-meanfithe-mean-protocol-and-meanfi-chinese-versiontranslated-by-stormg9999.md)
 
 ## Get involved
 
