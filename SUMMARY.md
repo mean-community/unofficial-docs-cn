@@ -21,6 +21,7 @@
 ## Medium Articles
 
 * [Mean协议与MeanFi(“The Mean Protocol and MeanFi” Chinese version,Translated by StormG#9999)](medium-articles/mean-xie-yi-yu-meanfithe-mean-protocol-and-meanfi-chinese-versiontranslated-by-stormg9999.md)
+* [Mean DAO带来了世界级的投资者，以彻底改变银行业并建立DeFi的未来。](medium-articles/mean-dao-dai-lai-le-shi-jie-ji-de-tou-zi-zhe-yi-che-di-gai-bian-yin-hang-ye-bing-jian-li-defi-de-wei.md)
 
 ## Get involved
 
