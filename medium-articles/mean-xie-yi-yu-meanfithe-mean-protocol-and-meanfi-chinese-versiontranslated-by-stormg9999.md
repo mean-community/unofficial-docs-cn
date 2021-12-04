@@ -24,7 +24,7 @@ DeFi的承诺：**在没有可以信任的中心化交易所的情况下进行�
 
 在早期使用者和传统银行用户之间，存在着难以跨越的鸿沟，大多数技术创新项目都会在这里死去。DeFi需要越过这道死亡鸿沟耗时越久，它就越容易成为一个市场有限的小众领域，或者被全世界的政府管制而不复存在。
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 ![](<../.gitbook/assets/image (3) (1).png>)
 
@@ -60,7 +60,7 @@ The Mean DAO是这个愿景背后的组织。我们是一个去中心化的自�
 
 ![Mean DAO和Mean 协议](<../.gitbook/assets/image (1).png>)
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 ## 多样化的创新形式： <a href="#b96a" id="b96a"></a>
 
@@ -98,7 +98,7 @@ Mean DAO路线图包括五（5）个阶段，分别以我们今天站在其肩�
 * 定期与自动再平衡的指数基金
 * 黑池……和更多的东西 👀
 
-![Mean协议和路线图](<../.gitbook/assets/image (2) (1).png>)
+![Mean协议和路线图](<../.gitbook/assets/image (2) (1) (1).png>)
 
 ## 加入我们 <a href="#2099" id="2099"></a>
 
