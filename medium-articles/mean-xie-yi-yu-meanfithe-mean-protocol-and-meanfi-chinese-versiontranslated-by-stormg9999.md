@@ -24,7 +24,9 @@ DeFi的承诺：**在没有可以信任的中心化交易所的情况下进行�
 
 在早期使用者和传统银行用户之间，存在着难以跨越的鸿沟，大多数技术创新项目都会在这里死去。DeFi需要越过这道死亡鸿沟耗时越久，它就越容易成为一个市场有限的小众领域，或者被全世界的政府管制而不复存在。
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (5).png>)
+
+![](<../.gitbook/assets/image (3) (1).png>)
 
 也因此，我们正在为这座桥的建设做出我们的贡献。
 
@@ -56,7 +58,9 @@ The Mean DAO是这个愿景背后的组织。我们是一个去中心化的自�
 1. [Mean Protocol](https://github.com/mean-dao/mean-core)是一套规则和可互操作的智能合约，帮助应用程序开发人员在其应用程序上辅助日常银行工作流程和投行业务。👉 [GitHub](https://github.com/mean-dao/mean-core)
 2. [MeanFi](https://meanfi.com)是一个自我托管、无需权限也无需提供信用的银行，由Mean协议提供支持，并将加密货币和DeFi引入日常银行业务。👉[网站](https://meanfi.com)
 
-![Mean DAO和Mean 协议](../.gitbook/assets/image.png)
+![Mean DAO和Mean 协议](<../.gitbook/assets/image (1).png>)
+
+![](<../.gitbook/assets/image (4).png>)
 
 ## 多样化的创新形式： <a href="#b96a" id="b96a"></a>
 
@@ -83,6 +87,8 @@ Mean DAO路线图包括五（5）个阶段，分别以我们今天站在其肩�
 
 每个阶段都有一个特定的关注领域，尽管它们被计划为同步进行，但我们的想法是按顺序去交付它们。在2021年的剩余时间和2022年的所有时间里，大部分精力将集中在完成第一阶段和第二阶段（JOBS和HAYEK）的工作上，分别对应着消费者和投资者。
 
+![](<../.gitbook/assets/image (3).png>)
+
 ## 自我超越 <a href="#00b3" id="00b3"></a>
 
 展望一下CURIE、FARADAY和EINSTEIN，我们有很多机会可以让企业和机构加入进来。在这些阶段，我们所期待的一些最令人兴奋的工作是：
@@ -92,7 +98,7 @@ Mean DAO路线图包括五（5）个阶段，分别以我们今天站在其肩�
 * 定期与自动再平衡的指数基金
 * 黑池……和更多的东西 👀
 
-![Mean协议和路线图](<../.gitbook/assets/image (2).png>)
+![Mean协议和路线图](<../.gitbook/assets/image (2) (1).png>)
 
 ## 加入我们 <a href="#2099" id="2099"></a>
 
