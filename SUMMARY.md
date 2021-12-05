@@ -24,6 +24,10 @@
 * [Mean DAO带来了世界级的投资者，以彻底改变银行业并建立DeFi的未来。](medium-articles/mean-dao-dai-lai-le-shi-jie-ji-de-tou-zi-zhe-yi-che-di-gai-bian-yin-hang-ye-bing-jian-li-defi-de-wei.md)
 * [Solana的DeFi美元成本平均法](medium-articles/solana-de-defi-mei-yuan-cheng-ben-ping-jun-fa.md)
 
+***
+
+* [Mean DAO将与Jupiter合作，提供一流的流动性聚合服务](mean-dao-jiang-yu-jupiter-he-zuo-ti-gong-yi-liu-de-liu-dong-xing-ju-he-fu-wu.md)
+
 ## Get involved
 
 * [App](https://app.meanfi.com)
