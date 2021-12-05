@@ -27,7 +27,7 @@
 ***
 
 * [Mean DAO将与Jupiter合作，提供一流的流动性聚合服务](mean-dao-jiang-yu-jupiter-he-zuo-ti-gong-yi-liu-de-liu-dong-xing-ju-he-fu-wu.md)
-* [Mean DAO与GRAPE协议合作](mean-dao-yu-grape-xie-yi-he-zuo.md)
+* [Mean DAO与GRAPE协议达成合作](mean-dao-yu-grape-xie-yi-da-cheng-he-zuo.md)
 
 ## Get involved
 
