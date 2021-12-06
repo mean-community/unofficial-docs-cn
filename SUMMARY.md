@@ -23,6 +23,7 @@
 * [Mean协议与MeanFi](medium-articles/mean-xie-yi-yu-meanfi.md)
 * [Mean DAO带来了世界级的投资者，以彻底改变银行业并建立DeFi的未来。](medium-articles/mean-dao-dai-lai-le-shi-jie-ji-de-tou-zi-zhe-yi-che-di-gai-bian-yin-hang-ye-bing-jian-li-defi-de-wei.md)
 * [Solana的DeFi美元成本平均法](medium-articles/solana-de-defi-mei-yuan-cheng-ben-ping-jun-fa.md)
+* [Mean DAO 与 Synthetify 达成合作🤝](medium-articles/mean-dao-yu-synthetify-da-cheng-he-zuo.md)
 
 ***
 
