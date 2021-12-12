@@ -56,7 +56,7 @@ The Mean DAO是这个愿景背后的组织。我们是一个去中心化的自�
 1. [Mean Protocol](https://github.com/mean-dao/mean-core)是一套规则和可互操作的智能合约，帮助应用程序开发人员在其应用程序上辅助日常银行工作流程和投行业务。👉 [GitHub](https://github.com/mean-dao/mean-core)
 2. [MeanFi](https://meanfi.com)是一个自我托管、无需权限也无需提供信用的银行，由Mean协议提供支持，并将加密货币和DeFi引入日常银行业务。👉[网站](https://meanfi.com)
 
-![Mean DAO和Mean 协议](<../.gitbook/assets/image (1).png>)
+![Mean DAO和Mean 协议](<../.gitbook/assets/image (1) (1).png>)
 
 ## 多样化的创新形式： <a href="#b96a" id="b96a"></a>
 

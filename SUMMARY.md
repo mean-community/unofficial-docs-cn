@@ -33,6 +33,7 @@
 * [介绍基于Mean协议的混合性流动聚合器](jie-shao-ji-yu-mean-xie-yi-de-hun-he-xing-liu-dong-ju-he-qi.md)
 * [SOLANA上的资金流](solana-shang-de-zi-jin-liu.md)
 * [MEAN 代币发布和 IDO](mean-dai-bi-fa-bu-he-ido.md)
+* [她说“你们已经赢了”](ta-shuo-ni-men-yi-jing-ying-le.md)
 
 ## Get involved
 
