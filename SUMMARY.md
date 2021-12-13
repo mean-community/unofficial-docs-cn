@@ -34,6 +34,7 @@
 * [SOLANA上的资金流](solana-shang-de-zi-jin-liu.md)
 * [MEAN 代币发布和 IDO](mean-dai-bi-fa-bu-he-ido.md)
 * [她说“你们已经赢了”](ta-shuo-ni-men-yi-jing-ying-le.md)
+* [2021年Mean DAO第四季度的路线图](2021-nian-mean-dao-di-si-ji-du-de-lu-xian-tu.md)
 
 ## Get involved
 
