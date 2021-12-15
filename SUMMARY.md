@@ -35,6 +35,8 @@
 * [MEAN 代币发布和 IDO](mean-dai-bi-fa-bu-he-ido.md)
 * [她说“你们已经赢了”](ta-shuo-ni-men-yi-jing-ying-le.md)
 * [2021年Mean DAO第四季度的路线图](2021-nian-mean-dao-di-si-ji-du-de-lu-xian-tu.md)
+* [Mean启动推迟7天](mean-qi-dong-tui-chi-7-tian.md)
+* [Mean Protocol正在整合Chainlink喂价，以帮助确保Solana的DCA和资金流](mean-protocol-zheng-zai-zheng-he-chainlink-wei-jia-yi-bang-zhu-que-bao-solana-de-dca-he-zi-jin-liu.md)
 
 ## Get involved
 

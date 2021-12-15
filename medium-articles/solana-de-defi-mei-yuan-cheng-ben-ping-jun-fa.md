@@ -4,7 +4,7 @@ description: 有关MeanFi的美元平均成本法介绍
 
 # Solana的DeFi美元成本平均法
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 \-美元成本平均法（DCA）有益于每一个人。
 
@@ -26,7 +26,7 @@ description: 有关MeanFi的美元平均成本法介绍
 
 下面是币安研究院的一张幻灯片，说明了DCA的使用案例。
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 ### DCA对于应用程序开发人员来说是非常棒的选择
 
